@@ -2,6 +2,8 @@
 // "Object Oriented Software Engineering" and is issued under the open-source
 // license found at www.lloseng.com 
 
+package given_code;
+
 import java.io.*;
 
 /**
@@ -160,4 +162,6 @@ public class PointCPTest
     //Return a new PointCP object
     return (new PointCP(coordType, a, b));
   }
+
+
 }
