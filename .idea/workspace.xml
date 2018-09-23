@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f9c92f90-3c72-45fc-af24-cacdde651b3d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCPDesign2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCPDesign3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCPDesign6Cartesian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCPDesign6Interface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCPDesign6Polar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCPTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointCPTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionTester.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,13 +21,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PointCPTestDesign2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/design2/PointCPTestDesign2.java">
+      <file leaf-file-name="CollectionTester.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CollectionTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="201" column="31" selection-start-line="201" selection-start-column="31" selection-end-line="201" selection-end-column="31" />
+            <state relative-caret-position="80">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="51" />
               <folding>
-                <element signature="docComment;method#testConstructor#0;class#PointCPTestDesign2#0" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#genRandomArray#0;class#CollectionTester#0" />
+                <element signature="method#sumArrayList#0;class#CollectionTester#0" />
+                <element signature="method#sumArrayList#1;class#CollectionTester#0" />
+                <element signature="method#sumVector#0;class#CollectionTester#0" />
               </folding>
             </state>
           </provider>
@@ -76,7 +72,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Design2.java" />
-        <option value="$PROJECT_DIR$/src/CollectionTester.java" />
         <option value="$PROJECT_DIR$/src/PointCPDesign2.java" />
         <option value="$PROJECT_DIR$/src/PointCP.java" />
         <option value="$PROJECT_DIR$/src/PointCPDesign3.java" />
@@ -97,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/design6/PointCPTestDesign6Polar.java" />
         <option value="$PROJECT_DIR$/src/design6/PointCPTestDesign6Cartesian.java" />
         <option value="$PROJECT_DIR$/src/design3/PointCPTestDesign3.java" />
+        <option value="$PROJECT_DIR$/src/CollectionTester.java" />
       </list>
     </option>
   </component>
@@ -110,8 +106,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1665" />
-    <option name="y" value="-51" />
+    <option name="x" value="-1543" />
+    <option name="y" value="-98" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
   </component>
@@ -172,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PointCPTestDesign2">
+  <component name="RunManager" selected="Application.CollectionTester">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -275,11 +271,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionTester" />
         <item itemvalue="Application.PointCPTestDesign2" />
         <item itemvalue="Application.PointCPTestDesign6Polar" />
         <item itemvalue="Application.PointCPTestDesign6Cartesian" />
         <item itemvalue="Application.PointCPTestDesign3" />
-        <item itemvalue="Application.CollectionTester" />
       </list>
     </recent_temporary>
   </component>
@@ -296,32 +292,32 @@
       <workItem from="1537124511172" duration="687000" />
       <workItem from="1537214410399" duration="4304000" />
       <workItem from="1537669985399" duration="263000" />
-      <workItem from="1537720430621" duration="8426000" />
+      <workItem from="1537720430621" duration="11933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13680000" />
+    <option name="totallyTimeSpent" value="17187000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1665" y="-51" width="1440" height="878" extended-state="0" />
+    <frame x="-1543" y="-98" width="1440" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32941177" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -403,16 +399,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Design2.java" />
-    <entry file="file://$PROJECT_DIR$/src/CollectionTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PointCPDesign3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -598,10 +584,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design2/PointCPTestDesign2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
+        <state relative-caret-position="392">
           <caret line="201" column="31" selection-start-line="201" selection-start-column="31" selection-end-line="201" selection-end-column="31" />
           <folding>
             <element signature="docComment;method#testConstructor#0;class#PointCPTestDesign2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CollectionTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#genRandomArray#0;class#CollectionTester#0" />
+            <element signature="method#sumArrayList#0;class#CollectionTester#0" />
+            <element signature="method#sumArrayList#1;class#CollectionTester#0" />
+            <element signature="method#sumVector#0;class#CollectionTester#0" />
           </folding>
         </state>
       </provider>
